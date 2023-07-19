@@ -1,6 +1,8 @@
+# Cache/Unused folders
 .minecraft/server-resource-packs
 .minecraft/CustomSkinLoader
 .minecraft/defaultconfigs
+.minecraft/etched-sounds
 .minecraft/texturepacks
 .minecraft/screenshots
 .minecraft/shaderpacks
@@ -10,5 +12,12 @@
 .minecraft/trees
 .minecraft/logs
 
+# User files
+.minecraft/config/roughlyenoughitems/config.json5
+.minecraft/config/voicechat/username-cache.json
 .minecraft/usernamecache.json
 .minecraft/usercache.json
+.minecraft/.sl_password
+
+# Extensions
+*.bak
