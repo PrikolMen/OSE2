@@ -7,10 +7,13 @@
 .minecraft/screenshots
 .minecraft/shaderpacks
 .minecraft/schematics
+.minecraft/modernfix
 .minecraft/coremods
 .minecraft/saves
 .minecraft/trees
+.minecraft/local
 .minecraft/logs
+natives
 
 # User files
 .minecraft/config/roughlyenoughitems/config.json5
