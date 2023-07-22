@@ -40,9 +40,9 @@
 	villagerInfectChance = 50
 	#Can players be infected.
 	infectPlayers = true
-	#Whether later levels of infected should slightly slow movement speed?
+	#Whether later levels of infected should slightly slow movement speed? 
 	infectSlowness = true
-	#Whether later levels of infected should depleet hunger quicker?
+	#Whether later levels of infected should depleet hunger quicker? 
 	infectHunger = true
 	#Chance out of 100 for a player to get infected
 	playerInfectChance = 15
