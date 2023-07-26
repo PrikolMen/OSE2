@@ -93,18 +93,6 @@
 		acacia_undergrowth = true
 		acacia_twiglet = true
 
-	[leaves_type.dtphc2]
-		tropical_pine = true
-		rubber = true
-		paperbark = true
-		papaya = true
-		maple = true
-		eucalyptus = true
-		date = true
-		coconut = true
-		cinnamon = true
-		banana = true
-
 	[leaves_type.tconstruct]
 		earth_slime = true
 		sky_slime = true

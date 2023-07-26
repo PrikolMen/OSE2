@@ -154,17 +154,6 @@
         "value": 10000000
       }
     },
-    "weeping_angels:block_break_range": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 120,
-        "value": 10000000
-      }
-    },
     "irons_spellbooks:summon_damage": {
       "enabled": false,
       "min": {
