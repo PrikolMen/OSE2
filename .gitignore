@@ -3,6 +3,7 @@
 .minecraft/CustomSkinLoader
 .minecraft/defaultconfigs
 .minecraft/etched-sounds
+.minecraft/crash-reports
 .minecraft/texturepacks
 .minecraft/screenshots
 .minecraft/shaderpacks
@@ -16,11 +17,13 @@
 natives
 
 # User files
-.minecraft/config/roughlyenoughitems/config.json5
 .minecraft/config/voicechat/username-cache.json
+.minecraft/config/attributefix.json
+.minecraft/config/jei-client.toml
 .minecraft/usernamecache.json
 .minecraft/usercache.json
 .minecraft/.sl_password
+.minecraft/ops.json
 
 # Extensions
 *.bak
