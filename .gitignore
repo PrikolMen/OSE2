@@ -6,7 +6,6 @@
 .minecraft/crash-reports
 .minecraft/texturepacks
 .minecraft/screenshots
-.minecraft/shaderpacks
 .minecraft/schematics
 .minecraft/modernfix
 .minecraft/coremods
@@ -23,6 +22,7 @@ natives
 .minecraft/usernamecache.json
 .minecraft/usercache.json
 .minecraft/.sl_password
+.minecraft/config/jei
 .minecraft/ops.json
 
 # Extensions
