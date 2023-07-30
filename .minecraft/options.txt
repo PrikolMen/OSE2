@@ -4,7 +4,7 @@ autoSuggestions:true
 chatColors:true
 chatLinks:true
 chatLinksPrompt:true
-enableVsync:true
+enableVsync:false
 entityShadows:true
 forceUnicodeFont:false
 discrete_mouse_scroll:false
@@ -34,7 +34,7 @@ difficulty:2
 graphicsMode:1
 ao:2
 prioritizeChunkUpdates:0
-biomeBlendRadius:2
+biomeBlendRadius:4
 renderClouds:true
 resourcePacks:["vanilla","mod_resources","Everycomp Generated Pack","Supplementaries Generated Pack","create_central_kitchen:create_styled","file/Create+Immersive+Aircrafts+Resource+Pack+1.18.2.zip","white_icons","quark:emote_resources","file/§f§lDynamic§7§o§lSurroundings§b♦§a§nv2.4.1.zip","file/Enhanced+Audio+r4.zip","file/Reimagined.zip","file/Menu+Music.zip","file/Blooming+Blocks+1.0-1.18.2.zip","Forgery","Forgery grayscale","Immersive Weathering Generated Pack","file/Tutta\u0027s_MCA_Texture_V1.15+-+1.18+.zip","immersive_weathering:better_brick_items","immersive_weathering:better_brick_blocks","immersive_weathering:biome_tinted_mossy_blocks","file/MCAVoices-1.0.0.zip","eatinganimations_compat"]
 incompatibleResourcePacks:["quark:emote_resources","file/§f§lDynamic§7§o§lSurroundings§b♦§a§nv2.4.1.zip","Forgery","file/MCAVoices-1.0.0.zip"]
@@ -159,8 +159,8 @@ key_key.effortlessbuilding.undo.desc:key.keyboard.z:CONTROL
 key_key.effortlessbuilding.redo.desc:key.keyboard.y:CONTROL
 key_key.effortlessbuilding.altplacement.desc:key.keyboard.left.control
 key_key.curios.open.desc:key.keyboard.unknown
-key_sndctrl.text.quickvolumemenu.open:key.keyboard.home
-key_sndctrl.text.soundconfig.open:key.keyboard.insert
+key_sndctrl.text.quickvolumemenu.open:key.keyboard.f9
+key_sndctrl.text.soundconfig.open:key.keyboard.f6
 key_key.immersive_aircraft.multi_control_left:key.keyboard.a
 key_key.immersive_aircraft.multi_control_right:key.keyboard.d
 key_key.immersive_aircraft.multi_control_forward:key.keyboard.w
@@ -175,9 +175,6 @@ key_key.presencefootsteps.settings:key.keyboard.f8
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
 key_cos.key.opencosarmorinventory:key.keyboard.unknown
-key_quark.keybind.back:key.mouse.4
-key_quark.keybind.autorun:key.keyboard.unknown
-key_quark.keybind.change_hotbar:key.keyboard.z
 key_key.irons_spellbooks.spell_wheel:key.keyboard.r
 key_key.irons_spellbooks.spell_bar_modifier:key.keyboard.left.shift
 key_key.irons_spellbooks.spell_quick_cast_1:key.keyboard.unknown
@@ -197,7 +194,12 @@ key_key.irons_spellbooks.spell_quick_cast_14:key.keyboard.unknown
 key_key.irons_spellbooks.spell_quick_cast_15:key.keyboard.unknown
 key_quark.keybind.sort_player:key.keyboard.unknown
 key_quark.keybind.sort_container:key.keyboard.unknown
-key_quark.keybind.camera_mode:key.keyboard.f9
+key_quark.keybind.change_hotbar:key.keyboard.z
+key_quark.keybind.transfer_insert:key.keyboard.unknown
+key_quark.keybind.transfer_extract:key.keyboard.unknown
+key_quark.keybind.shift_lock:key.keyboard.unknown
+key_quark.keybind.back:key.mouse.4
+key_quark.keybind.autorun:key.keyboard.unknown
 key_key.push_to_talk:key.keyboard.caps.lock
 key_key.whisper:key.keyboard.x
 key_key.mute_microphone:key.keyboard.unknown
@@ -208,9 +210,6 @@ key_key.voice_chat_settings:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.unknown
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
-key_quark.keybind.transfer_insert:key.keyboard.unknown
-key_quark.keybind.transfer_extract:key.keyboard.unknown
-key_quark.keybind.shift_lock:key.keyboard.unknown
 key_quark.emote.no:key.keyboard.unknown
 key_quark.emote.yes:key.keyboard.unknown
 key_quark.emote.wave:key.keyboard.unknown
@@ -229,19 +228,19 @@ key_quark.keybind.patreon_emote.dab:key.keyboard.unknown
 key_quark.keybind.patreon_emote.jet:key.keyboard.unknown
 key_quark.keybind.patreon_emote.exorcist:key.keyboard.unknown
 key_quark.keybind.patreon_emote.zombie:key.keyboard.unknown
+key_quark.keybind.camera_mode:key.keyboard.f10
 key_quark.keybind.lock_rotation:key.keyboard.k
 key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.c
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.sort:key.mouse.middle
-key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x:ALT
 key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
+key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x:ALT
+key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
 key_keybind.sophisticatedstorage.sort:key.mouse.middle
 key_key.zoom:key.keyboard.unknown
-key_shimmer.key.pickColor:key.keyboard.unknown
 key_key.tconstruct.helmet_interact:key.keyboard.h
 key_key.tconstruct.leggings_interact:key.keyboard.j
 soundCategory_master:1.0
