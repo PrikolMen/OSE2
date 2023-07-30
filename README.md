@@ -1,5 +1,5 @@
 # OS: Engineering 2 for [Launcher Legacy](https://llaun.ch/ru)
-Minecraft Modpack 1.18.2
+Minecraft 1.18.2 Modpack
 
 ## Installation Guide
 1. [Download & install](https://llaun.ch/installer) launcher
