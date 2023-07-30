@@ -36,8 +36,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:4
 renderClouds:true
-resourcePacks:["vanilla","mod_resources","Everycomp Generated Pack","Supplementaries Generated Pack","create_central_kitchen:create_styled","file/Create+Immersive+Aircrafts+Resource+Pack+1.18.2.zip","white_icons","quark:emote_resources","file/§f§lDynamic§7§o§lSurroundings§b♦§a§nv2.4.1.zip","file/Enhanced+Audio+r4.zip","file/Reimagined.zip","file/Menu+Music.zip","file/Blooming+Blocks+1.0-1.18.2.zip","Forgery","Forgery grayscale","Immersive Weathering Generated Pack","file/Tutta\u0027s_MCA_Texture_V1.15+-+1.18+.zip","immersive_weathering:better_brick_items","immersive_weathering:better_brick_blocks","immersive_weathering:biome_tinted_mossy_blocks","eatinganimations_compat"]
-incompatibleResourcePacks:["quark:emote_resources","file/§f§lDynamic§7§o§lSurroundings§b♦§a§nv2.4.1.zip","Forgery"]
+resourcePacks:["vanilla","mod_resources","Everycomp Generated Pack","Supplementaries Generated Pack","quark:emote_resources","white_icons","Forgery","Forgery grayscale","Immersive Weathering Generated Pack","file/Tutta\u0027s_MCA_Texture_V1.15+-+1.18+.zip","immersive_weathering:better_brick_items","immersive_weathering:biome_tinted_mossy_blocks","immersive_weathering:better_brick_blocks","file/Enhanced+Audio+r4.zip","file/Menu+Music.zip","file/Reimagined.zip","create:legacy_copper","create_central_kitchen:create_styled","file/Create+Immersive+Aircrafts+Resource+Pack+1.18.2.zip","eatinganimations_compat"]
+incompatibleResourcePacks:["quark:emote_resources","Forgery"]
 lastServer:
 lang:ru_ru
 soundDevice:
