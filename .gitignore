@@ -4,25 +4,21 @@ CustomSkinLoader
 defaultconfigs
 etched-sounds
 crash-reports
-texturepacks
-screenshots
-schematics
-modernfix
 coremods
-saves
+world
 trees
 local
 logs
 natives
 
-# User files
-config/voicechat/username-cache.json
-config/jei-client.toml
+# Server files
 rhino.local.properties
-usernamecache.json
+banned-players.json
+server.properties
+banned-ips.json
 usercache.json
-.sl_password
-config/jei
+whitelist.json
+eula.txt
 ops.json
 
 # Extensions
