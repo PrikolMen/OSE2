@@ -241,7 +241,7 @@ key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
 key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
 key_keybind.sophisticatedstorage.sort:key.mouse.middle
 key_key.zoom:key.keyboard.unknown
-key_shimmer.key.pickColor:key.keyboard.v
+key_shimmer.key.pickColor:key.keyboard.unknown
 key_key.tconstruct.helmet_interact:key.keyboard.h
 key_key.tconstruct.leggings_interact:key.keyboard.j
 soundCategory_master:1.0
