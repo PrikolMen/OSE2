@@ -17,6 +17,7 @@ natives
 
 # User files
 config/voicechat/username-cache.json
+config/sidebar_buttons.json
 config/jei-client.toml
 rhino.local.properties
 usernamecache.json
