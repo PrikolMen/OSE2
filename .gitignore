@@ -18,7 +18,6 @@ natives
 
 # User files
 .minecraft/config/voicechat/username-cache.json
-.minecraft/config/attributefix.json
 .minecraft/config/jei-client.toml
 .minecraft/usernamecache.json
 .minecraft/usercache.json
