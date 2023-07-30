@@ -1540,7 +1540,7 @@
         "value": "--gameDir"
       },
       {
-        "value": "${game_directory}\\versions\\${version_name}"
+        "value": "${game_directory}"
       },
       {
         "value": "--assetsDir"
