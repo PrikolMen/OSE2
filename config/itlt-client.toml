@@ -64,7 +64,7 @@
 				# 
 				# Note: This is *separate* from enableMinJavaVerWarning - you can have a separate
 				# version requirement and warning.
-				enableMinJavaVerRequirement = true
+				enableMinJavaVerRequirement = false
 
 			[Java.Version.Min.Warning]
 				# 
@@ -76,7 +76,7 @@
 				# 
 				# Note: This is *separate* from enableMinJavaVerRequirement - you can have a
 				# separate version requirement and warning.
-				enableMinJavaVerWarning = true
+				enableMinJavaVerWarning = false
 				# 
 				# The minimum recommended version of Java needed to skip the warning message when
 				# launching the modpack.
@@ -215,7 +215,7 @@
 				# 
 				# The minimum amount of allocated RAM in GB needed to be able to launch the modpack.
 				#Range: 0.1 ~ 1024.0
-				reqMinMemoryAmountInGB = 0.5
+				reqMinMemoryAmountInGB = 2.0
 
 			[Java.Memory.Min.Warning]
 				# 
@@ -235,7 +235,7 @@
 				# The minimum recommended amount of allocated RAM in GB needed to skip the warning
 				# message when launching the modpack.
 				#Range: 0.1 ~ 1024.0
-				warnMinMemoryAmountInGB = 1.0
+				warnMinMemoryAmountInGB = 4.0
 
 		[Java.Memory.Max]
 
@@ -243,7 +243,7 @@
 				# 
 				# The maximum amount of allocated RAM in GB to be able to launch the modpack.
 				#Range: 0.1 ~ 1024.0
-				reqMaxMemoryAmountInGB = 16.0
+				reqMaxMemoryAmountInGB = 12.0
 				# 
 				# Enable this to require that no more than X amount of RAM is available to the
 				# modpack for allocating.
@@ -264,7 +264,7 @@
 				# The maximum recommended amount of allocated RAM in GB needed to skip the warning
 				# message when launching the modpack.
 				#Range: 0.1 ~ 1024.0
-				warnMaxMemoryAmountInGB = 14.0
+				warnMaxMemoryAmountInGB = 8.0
 
 		[Java.Memory.NearMax]
 
@@ -338,7 +338,7 @@
 	# changelog before updating if you use this. The changelog will make any breaking changes
 	# to this feature clear. If there's no mention of this feature in the changelog, rest assured
 	# you can update without needing to make any changes to your servers.json.
-	enableCustomServerListEntries = false
+	enableCustomServerListEntries = true
 
 [Display]
 
@@ -365,7 +365,7 @@
 		# - "ModpackName v2 based on %mc" = "ModpackName v2 based on Minecraft* 1.18"
 		# 
 		# Note: enableCustomWindowTitle must be enabled for this to take effect.
-		customWindowTitleText = "%modpackName - %mc"
+		customWindowTitleText = "OS: Engineering 2"
 		# 
 		# Enable this if you want to change the name of the Minecraft window.
 		enableCustomWindowTitle = true
@@ -394,7 +394,7 @@
 		# The name of your modpack.
 		# If blank, the modpack name will be auto-detected from supported launchers.
 		# This auto-detection isn't perfect, so you can override it here if needed.
-		modpackName = ""
+		modpackName = "OS: Engineering 2"
 
 	[Display.Icon]
 		# 
@@ -406,19 +406,19 @@
 		# Note: See the itlt wiki for more info.
 		# 
 		# Note: This will override the enableEnhancedVanillaIcon when a valid custom icon is found.
-		enableCustomIcon = true
+		enableCustomIcon = false
 		# 
 		# Enable this if you want itlt to use its HiDPI-aware (aka Retina support) icon setting
 		# feature with the Vanilla game icon, obtained directly from the game's resources.
 		# 
 		# Turning this on should give you a more crisp and detailed icon on higher resolution displays,
 		# rather than the comparatively blurry 32px PNG that is normally used.
-		enableEnhancedVanillaIcon = true
+		enableEnhancedVanillaIcon = false
 		# 
 		# Enable this if you want itlt to automatically detect your modpack's icon when launching
 		# from a supported launcher. If unable to auto-detect, it will fallback to a provided
 		# icon.ico/icon.icns/icon.png file if available.
 		# 
 		# Note: enableCustomIcon must be enabled for this to take effect.
-		enableUsingAutodetectedIcon = true
+		enableUsingAutodetectedIcon = false
 
