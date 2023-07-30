@@ -1604,9 +1604,9 @@
       {
         "value": [
           "--width",
-          "640",
+          "${resolution_width}",
           "--height",
-          "480"
+          "${resolution_height}"
         ],
         "rules": [
           {
