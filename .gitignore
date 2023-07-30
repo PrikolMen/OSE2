@@ -14,6 +14,7 @@ natives
 # Server files
 rhino.local.properties
 banned-players.json
+usernamecache.json
 server.properties
 banned-ips.json
 usercache.json
