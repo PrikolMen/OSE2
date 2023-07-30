@@ -1,14 +1,10 @@
 # Cache/Unused folders
 server-resource-packs
-CustomSkinLoader
 defaultconfigs
 etched-sounds
 crash-reports
 texturepacks
 screenshots
-schematics
-modernfix
-coremods
 saves
 trees
 local
@@ -23,6 +19,7 @@ rhino.local.properties
 usernamecache.json
 usercache.json
 .sl_password
+servers.dat
 config/jei
 ops.json
 
