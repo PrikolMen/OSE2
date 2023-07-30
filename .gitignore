@@ -25,6 +25,7 @@ natives
 .minecraft/.sl_password
 .minecraft/config/jei
 .minecraft/ops.json
+.minecraft/options.txt
 
 # Extensions
 *.bak
