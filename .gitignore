@@ -1,30 +1,30 @@
 # Cache/Unused folders
-.minecraft/server-resource-packs
-.minecraft/CustomSkinLoader
-.minecraft/defaultconfigs
-.minecraft/etched-sounds
-.minecraft/crash-reports
-.minecraft/texturepacks
-.minecraft/shaderpacks
-.minecraft/screenshots
-.minecraft/schematics
-.minecraft/modernfix
-.minecraft/coremods
-.minecraft/saves
-.minecraft/trees
-.minecraft/local
-.minecraft/logs
+server-resource-packs
+CustomSkinLoader
+defaultconfigs
+etched-sounds
+crash-reports
+texturepacks
+screenshots
+schematics
+modernfix
+coremods
+saves
+trees
+local
+logs
 natives
 
 # User files
-.minecraft/config/voicechat/username-cache.json
-.minecraft/config/jei-client.toml
-.minecraft/usernamecache.json
-.minecraft/usercache.json
-.minecraft/.sl_password
-.minecraft/config/jei
-.minecraft/ops.json
-.minecraft/options.txt
+config/voicechat/username-cache.json
+config/jei-client.toml
+rhino.local.properties
+usernamecache.json
+usercache.json
+.sl_password
+config/jei
+ops.json
+options.txt
 
 # Extensions
 *.bak
