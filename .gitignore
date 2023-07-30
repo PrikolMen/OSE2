@@ -25,5 +25,6 @@ usercache.json
 config/jei
 ops.json
 
-# Extensions
+# Other
+OSE2.jar
 *.bak
